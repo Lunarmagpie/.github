@@ -1,1 +1,1 @@
-I like functional programming. I hate dysfunctional programming.
+I prefer my code to be dysfunctional over inherently bad.
